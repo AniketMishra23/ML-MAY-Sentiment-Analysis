@@ -1,2 +1,2 @@
 # ML-MAY-Sentiment-Analysis
-This Repository is for my Major Project
+Machine Learning SmartKnower May Batch Project on Sentiment Analysis using data from REDDIT
